@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-mi-templo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu cuerpo mi templo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-mi-templo/) |
+| **Get License** | [Obtain a Music License for Tu cuerpo mi templo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-mi-templo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu cuerpo mi templo, noche de pasión
+> Late el dembow dentro del corazón
+> Luna y cristal, piel contra piel
+> Sayed canta al ritmo que enciende mi piel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
