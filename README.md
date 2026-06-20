@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-mi-templo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu cuerpo mi templo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-mi-templo/) |
+| **Get License** | [Music Rights & Licensing for Tu cuerpo mi templo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-mi-templo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `20e5a59b717858ad6ac60006b3c9c52401a33820581d7a0f84e28c35b70663d0` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

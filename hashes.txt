@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu cuerpo mi templo
+
+This log tracks the cryptographic history and versioning for the song **Tu cuerpo mi templo** (tu-cuerpo-mi-templo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:04:32.878771 | `v1` | `20e5a59b717858ad6ac60006b3c9c52401a33820581d7a0f84e28c35b70663d0` | `e4c0f9d0f358a736263ab07caeec77138ec3b54ef706ba6086e344ab4f5b8014` | `2026-06-21_tu-cuerpo-mi-templo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
